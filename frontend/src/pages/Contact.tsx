@@ -324,7 +324,7 @@ const Contact = () => {
             <Button className="bg-primary-foreground text-primary hover:bg-primary-foreground/90 text-lg px-8 py-4">
               Schedule Free Demo
             </Button>
-            <Button variant="outline" className="border-primary-foreground text-primary-foreground hover:bg-primary-foreground/10 text-lg px-8 py-4">
+            <Button variant="outline" className="bg-primary-foreground text-primary hover:bg-primary-foreground/90 text-lg px-8 py-4">
               Call Us Now
             </Button>
           </div>

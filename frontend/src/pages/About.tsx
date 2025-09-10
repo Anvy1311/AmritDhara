@@ -271,7 +271,7 @@ const About = () => {
             <Button className="bg-primary-foreground text-primary hover:bg-primary-foreground/90 text-lg px-8 py-4">
               Start Your Journey
             </Button>
-            <Button variant="outline" className="border-primary-foreground text-primary-foreground hover:bg-primary-foreground/10 text-lg px-8 py-4">
+            <Button variant="outline" className="bg-primary-foreground text-primary hover:bg-primary-foreground/90 text-lg px-8 py-4">
               Contact Our Team
             </Button>
           </div>
